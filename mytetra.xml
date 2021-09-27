@@ -312,6 +312,10 @@
     </recordtable>
    </node>
   </node>
-  <node crypt="0" icon="" id="1631016987isc4kiilsa" name="share"/>
+  <node crypt="" icon="" id="1631016987isc4kiilsa" name="share">
+   <recordtable>
+    <record id="1632733595qg1e25w89s" name="test" author="" url="" tags="" ctime="20210927130635" dir="1632733595xo2ohluyc0" file="text.html"/>
+   </recordtable>
+  </node>
  </content>
 </root>
